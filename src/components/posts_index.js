@@ -1,10 +1,10 @@
-import {React, Component} from 'react'
+import React, { Component } from 'react'
 
 class PostsIndex extends Component {
     render() {
         return (
             <div>
-                Post Index
+                Posts Index
             </div>
         );
     }
